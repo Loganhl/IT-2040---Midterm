@@ -1,0 +1,15 @@
+C:\Users\joker\Documents\2040\MidtermProject\obj\Debug\net6.0\MidtermProject.csproj.AssemblyReference.cache
+C:\Users\joker\Documents\2040\MidtermProject\obj\Debug\net6.0\MidtermProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joker\Documents\2040\MidtermProject\obj\Debug\net6.0\MidtermProject.AssemblyInfoInputs.cache
+C:\Users\joker\Documents\2040\MidtermProject\obj\Debug\net6.0\MidtermProject.AssemblyInfo.cs
+C:\Users\joker\Documents\2040\MidtermProject\obj\Debug\net6.0\MidtermProject.csproj.CoreCompileInputs.cache
+C:\Users\joker\Documents\2040\MidtermProject\bin\Debug\net6.0\MidtermProject.exe
+C:\Users\joker\Documents\2040\MidtermProject\bin\Debug\net6.0\MidtermProject.deps.json
+C:\Users\joker\Documents\2040\MidtermProject\bin\Debug\net6.0\MidtermProject.runtimeconfig.json
+C:\Users\joker\Documents\2040\MidtermProject\bin\Debug\net6.0\MidtermProject.dll
+C:\Users\joker\Documents\2040\MidtermProject\bin\Debug\net6.0\MidtermProject.pdb
+C:\Users\joker\Documents\2040\MidtermProject\obj\Debug\net6.0\MidtermProject.dll
+C:\Users\joker\Documents\2040\MidtermProject\obj\Debug\net6.0\refint\MidtermProject.dll
+C:\Users\joker\Documents\2040\MidtermProject\obj\Debug\net6.0\MidtermProject.pdb
+C:\Users\joker\Documents\2040\MidtermProject\obj\Debug\net6.0\MidtermProject.genruntimeconfig.cache
+C:\Users\joker\Documents\2040\MidtermProject\obj\Debug\net6.0\ref\MidtermProject.dll
